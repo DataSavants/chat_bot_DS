@@ -2375,8 +2375,2019 @@ faculty:4
 hod:Dr. S. Preeti
 
 
+Admin Final  data collection:
+
+Admin :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+COMPUTING TECHNOLOGIES
 
 
+About the Department
+
+The Department of Computing Technologies (CTECH) fosters the future of computing world. 
+The Mission of the Department is to advance, evolve, and enhance Computer Science and Engineering fundamentals to build the intellectual capital of society. 
+The CTECH Department endeavors to be an important regional, national, and international resource center for the development of computing and its applications. 
+The Department is excelling by keeping up with recent trends and evidence of exponential and exhilarating growth. CTECH boasts a vibrant student body of nearly 5000 undergraduates, 50 postgraduate students, 100+ research scholars, and a stellar faculty of Professors. 
+During the year 2020-21, around 1200 students of the CTECH Department bagged the placement opportunity in eminent industries like Microsoft, Amazon, Fidelity, etc.
+The students are exposed to a variety of opportunities, such as in-plant training, internships and workshops during the course of the study.
+
+The department is wide-open to enormously prospective activities such as hackathons, industry-based joint-project development, the semester-abroad Programme, the faculty development program, the NSS, etc., on a regular basis. 
+The International Conference on the Internet of Things is an iconic event being hosted for the third consecutive year for the benefit of the research fraternity with a focus on Sustainable Development Goals.
+
+Progrrams offered:
+undergraduate:
+B.Tech – Computer Science and Engineering
+Duration : 4 Years | Annual Fees : ₹ 4,00,000
+sem syllabus details:
+mode:Regular
+
+Semester - I:
+
+|code	   |	Subject Name		|
+18LEH101J-English
+18MAB101T-Calculus and Linear Algebra
+18PYB103J-Physics: Semiconductor Physics
+18MES101L-Engineering Graphics and Design
+18EES101J-Basic Electrical and Electronics Engineering
+18PDM101L-Professional Skills and Practices
+18LEM101T-Constitution of India
+18GNM101L-Physical and Mental Health using Yoga
+
+
+Semester - II
+
+
+|code	   |	Subject Name		|
+18LEH10XJ-Chinese
+18LEH10XJ-French
+18LEH10XJ-German
+18LEH10XJ-Japanese
+18LEH10XJ-Korean
+18MAB102T-dvanced Calculus and Complex Analysis
+18CYB101J-Chemistry
+18CSS101J-Programming for Problem Solving
+18MES103L-Civil and Mechanical Engineering Workshop
+18PDH101T-General Aptitude
+18LEM102J-Value Education
+18GNM102L-NSS
+18GNM103L-NCC
+18GNM104L-NSO
+
+Semester - III
+
+|code	   |	Subject Name		|
+18MAB201T-ransforms and Boundary Value Problems
+18BTB101T-Biology
+18CSS201J-Analog and Digital Electronics
+18CSC201J-Data Structures and Algorithms
+18CSC202J-Object Oriented Design and Programming
+18CSC203J-Computer Organization and Architecture
+18PDH102T-Management Principles for Engineers
+18PDM201L-Competencies in Social Skills
+18PDM203L-Entrepreneurial Skill Development
+
+
+Semester - IV
+
+|code	   |	Subject Name		|
+18MAB204T-Probability and Queueing Theory
+18CSS202J-Computer Communications
+18CSC204J-Design and Analysis of Algorithms
+18CSC205J-Operating Systems
+18CSC206J-Software Engineering and Project Management
+18CSC207J-Advanced Programming Practice
+18CSC208L-Competitive Professional Skills-I
+18PDH103T-Social Engineering
+18PDM202L-Critical and Creative Thinking Skills
+18PDM204L-Business Basics for Entrepreneurs
+18CYM101T-Environmental Science
+
+
+Semester - V
+
+
+|code	   |	Subject Name		|
+18MAB302T-Discrete Mathematics for Engineers
+18CSC301T-Formal Language and Automata
+18CSC302J-Computer Networks
+18CSC306L-Competitive Professional Skills-II
+          Professional Elective – 1
+	    Professional Elective – 2
+	    Open Elective – 1
+18CSP101L-Massive Open Online Course - I
+18CSP102L-Industrial Training-I
+18CSP103L-Seminar - I
+18PDM301L-Analytical and Logical Thinking Skills
+18PDM302L-Entrepreneurship Management
+18LEM109T-Indian Traditional Knowledge
+
+Semester - VI
+
+
+|code	   |	Subject Name		|
+18CSC303J-Database Management Systems
+18CSC304J-Compiler Design
+18CSC305J-Artificial Intelligence
+18CSC350T-Comprehension
+18CSC207L-Competitive Professional Skills-III
+	    Professional Elective – 3
+	    Professional Elective – 4
+	    Open Elective – 2
+18CSP104L-Massive Open Online Course - II
+18CSP105L-Industrial Training-II
+18CSP106L-Seminar - II
+18PDH201T-Employability Skills and Practices
+18LEM110L-Indian Art Form
+
+Semester - VII
+
+|code	   |	Subject Name		|
+		Professional Elective – 5
+		Professional Elective – 6
+		Open Elective – 3
+18CSP107L-Minor Project
+18CSP108L-Internship (4-6 weeks)
+
+Semester – VIII
+
+|code	   |	Subject Name		|
+18CSP109L-Project
+18CSP110L-Semester Internship
+
+
+B.Tech. Computer Science And Engineering (Data Science)
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+mode:Regular
+
+sem syllabus details:
+ No data was found
+
+Post Graduate:
+M.Tech. Computer Science and Engineering (Great Learning)
+Duration : 2 Years | Annual Fees : ₹ 1,25,000
+mode:Regular
+
+Sem- Details:
+
+SEMESTER-I
+
+|code	   |	Subject Name		|
+CS2001   -  Data Structures and Algorithms
+CS2002   -  Parallel Computer Architecture
+CS2003   -  Object Oriented Software Engineering
+CAC2001  -  Career Advancement Course For Engineers - I
+		Program Elective- I
+		Program Elective- II
+N/A	   -  Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A      -  Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+
+
+SEMESTER - II
+
+CS2004-Data Base Technology
+CS2005-Computer Networks and Management
+CS2006-System Programming
+CAC2002-Career Advancement Course for Engineers-II
+Program Elective-III
+Program Elective-IV
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER -III
+
+Program Elective-V
+Program Elective-VI
+CAC2003-Career Advancement Course for Engineers-III
+CS2047-Seminar
+CS2049-Project Phase I
+N/A-Supportive course 3 0 0 3 ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER -IV
+
+
+CS2050-Project Phase II
+
+M.Tech. Mobile and Pervasive Computing
+Duration : 2 Years | Annual Fees : ₹ INR 5,00,000
+mode:Regular
+
+SEMESTER-I
+
+CS2031-Mobile Architecture and Programming
+CS2032-Algorithms for Distributed Networks
+CS2033-Wireless Communications and Technologies
+CAC2001-Career Advancement Course For Engineers - I
+Program Elective- I
+Program Elective- II
+Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-nterdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+
+SEMESTER-II
+
+CS2034-Wireless Sensor Protocols and Programming
+CS2035-Wireless Communication Protocols
+CS2036-Advanced Mobile Computing
+CAC2002-Career Advancement Course For Engineers - II
+Program Elective- III
+Program Elective-IV
+Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER -III
+
+code
+
+Program Elective- V
+Program Elective-VI
+CAC2003-Career Advancement Course For Engineers - III
+CS2047-Seminar
+CS2049-Project Phase I
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER -IV
+
+
+CS2050
+Project Phase II
+
+M.Tech. Software Defined Networking
+Duration : 2 Years
+
+SEMESTER -I
+	
+CS2051-Advanced Networks and Communication Systems
+CS2052-SDN and NFV Research Review
+CS2053-Software Defined Networks
+CS2054-Data Center Networks
+CAC2001-Career Advancement Course For Engineers - I
+Program Elective- I
+Program Elective- II
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER -II
+
+CS2055-Cloud Orchestration and NFV
+CS2056-Mobile Computing and Internet of Things
+CS2057-SDN and NFV Research Proposal
+CS2058-Software Defined Optical Networks
+CAC2002-Career Advancement Course For Engineers - II
+Program Elective- III
+Program Elective- IV
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER-III
+
+Program Elective- V
+Program Elective-VI
+CAC2003-Career Advancement Course for Engineers-III
+CS2047-Seminar
+CS2049-Project Phase I
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+SEMESTER-IV
+
+Project Phase II
+
+
+mode:Regular
+
+
+Eligibility for B.Tech Programme.
+
+
+
+(a) Nationality and Age
+
+Resident Indian or Non-Resident Indian (NRI), holder of PIO or OCI card issued by Government of India are eligible to apply for SRMJEEE (UG).
+
+Note: NRIs, holders of PIO or OCI card issued by Government of India who has not taken the SRMJEEE (UG) must apply under International student category only.
+
+Should have attained the age of 16 years and 6 months on the 31st July of the calendar year in which the 12th Board examination is to be held (source).
+
+(b) Qualifying Examination:
+
+All B.Tech programmes :
+
+Minimum 50% aggregate in PCM
+
+(i) Passed in Higher secondary examination (10+2 pattern ) or appearing in Higher Secondary examination in the current academic year with Physics and Mathematics as compulsory subjects along with one of the Chemistry/ Biotechnology/ Biology/ Technical Vocational subject/ Computer Science/ Information Technology/ Informatics Practices/ Agriculture/ Engineering Graphics/ Business Studies as major subjects in regular stream from any state board within India, CBSE, ISCE, Matriculation, or NIOS
+
+Note: Students who have completed +2 under NIOS must have completed the 10th standard from regular schooling or vice-versa. (source)
+
+(ii) GCE A-level or International Baccalaureate(IB) diploma or IB certificate with Physics and Mathematics as compulsory subjects along with one of the Chemistry/ Biotechnology/ Biology/ Technical Vocational subject/ Computer Science/ Information Technology/ Informatics Practices/ Agriculture/ Engineering Graphics/ Business Studies as major subjects (equivalent to Advanced Placement level in each subject) in any International schools within India.
+
+(c) SRMJEEE (UG)
+
+Candidates who have attempted Physics, Chemistry, Mathematics, English & Aptitude in SRMJEEE(UG) are eligible for all the B.Tech Degree Programs
+
+(d) Direct Admission
+
+To encourage and support students of exemplary talent, SRM Institute of Science and Technology (formerly known as SRM University) offers direct admission and scholarships to first rank students of all the central and state boards in India, top 10,000 rankers in IIT JEE, top rankers in each district of Tamil Nadu and exemplary sports persons at National and International level.
+ ___________________________________________________________________________
+|Eligibility for M.Tech Programs (Duration: 2 Years)				    |
+|___________________________________________________________________________|
+|Specialization       |     Eligibility						    |
+|			    |	   (A basic degree or equivalent in the following   |
+|			    |		 with a minimum aggregate of 50%)             |
+|M.Tech by Research   | 								    |
+|(All Programs) 	    |	Candidates can register in any of the specialization|
+|			    |	 below with the following eligibility. For complete |
+|			    |		 details						    |
+|_____________________|_____________________________________________________|
+Automotive Hybrid
+Systems Engineering	B.E / B.Tech in Mechanical / Automobile/ Aeronautical 
+				/ Mechatronics/ Production / Electrical / ECE / EEE / 
+				Electronics / Instrumentation & Control Engg with aggregate
+				& final year score over 50%. GATE Score and / or work
+				experience in related area is preferred.  
+				Selection through entrance and interview. 
+				Equal Proportion to both streams of Mechanical and 
+				Electrical Engineering will be considered in selection.
+
+Automation and Robotics	B.E / B.Tech. in ECE / EEE / EIE / ICE / Mechanical /
+				Mechatronics Engineering  / Industrial Engineering /  
+				Production Engineering / Automobile Engineering /
+				Aerospace Engineering /Manufacturing Engineering (or) 
+				its equivalent.
+
+
+Big Data Analytics 	B.E / B.Tech. in CSE / IT / SWE (or) M.Sc. (CSE / IT) 
+				(or) MCA (or) its equivalent.
+
+
+Biomedical Engineering 	B.E / B.Tech in Biomedical Engineering /
+				Biomedical & Instrumentation Engineering / ICE / EIE 
+				/ECE/ EEE/ Biotechnology / Nanotechnology / Medical Electronics 
+				(or) M.Sc.(Electronics / Medical Electronical / 
+				Applied Electronics) (or) M.Sc.(Physics / Medical Physics 
+				/ Bio-Physics) (or) M.Sc. (Bio-informatics /
+				Biomedical Informatics / Biotechnology) (or) MBBS / 
+				BPT / BOT (or) its equivalent.
+
+Biotechnology 		B.E / B.Tech. in Chemical Engineering / Bio-Technology  / 
+				Bio-Chemical Engineering / Genetic Engg. / Bioinformatics / 
+				Biomedical Engg. / Biomedical & Instrumentation Engg. / 
+				Bioprocess Engg. / Food  Process Engineering (or) B.Pharm 
+				(or) M.Sc. (in any branch  of Life Sciences / Biotechnology)
+			 	(or) its equivalent.
+
+Chemical Engineering 	Chemical Engineering, Electrochemical Engineering, 
+				Petrochemical Engineering,  Petroleum Engineering,  
+				Petroleum Refining Engineering,  Chemical Technology, 
+				Pharmaceutical Technology, Food and Process Engineering, 
+				Biochemical Engineering, Bioprocess Engineering, 
+				Biotechnology, Biotechnology and Biochemical Engineering (or)
+				its equivalent
+
+Cloud Computing 		B.E / B.Tech in CSE / IT / SWE / ECE / EEE / EI (or) 
+				MCA (or) M.Sc (CSE / IT) (or) its equivalent.
+
+Computer Aided Design 	B.E / B.Tech. in Mechanical  Engg. / Production Engg. 
+				/ Automobile Engg. / Aerospace / Aeronautical Engg (or)
+				AMIE (Mech) / AMAeSI(Aero) / IMechE. (or) any equivalent 
+				degree in the above Disciplines.
+
+
+Computer Science &
+ Engineering 		B.E / B.Tech. in CSE / IT / SWE / ECE / EEE /
+				EIE & ICE (or) MCA (or) M.Sc. (CS / CST / IT / SW)
+				(or) its equivalent.
+
+Construction Engine
+-ering and Management 	B.E / B.Tech. in Civil / Civil Infrastructure Engg.
+				/ Architectural Engg. (or) B.Arch. (or) its equivalent.
+
+
+Electronics & 
+Control  Engineering 	B.E / B.Tech. in ECE / ICE / EEE / EIE (or)its equivalent.
+
+
+Electric Vehicle
+ Technology 		B.E/B.Tech.inAutomobile/Mechanical/EEE/E&I/ECE/
+				Mechatronics/Manufacturing Engineering.
+
+Embedded  
+System Technology 	B.E / B.Tech. in EEE / ECE / CSE / IT / ICE / EIE (or) M.Sc.
+				(Electronics / Applied Electronics) (or) 
+				M.Sc. (Physics – Special Electronics) (or) its equivalent.
+
+Environmental 
+Engineering			B.E. / B.Tech (Civil / Civil Infrastructure / Architecture  Engg.
+				/ Chemical / Biotechnology),  or M.Sc ( Environmental Science / Ecology 
+				/ Environmental Ecology / Environmental Chemistry) (or) its equivalent.
+Food  and 
+Nutritional 
+Biotechnology 		B.E / B.Tech. in Food  Process / Chemical / Biotechnology / Agricultural Engineering
+				/ Food Processing and Preservation Technology/ Food Technology (or) its equivalent.
+Food  Safety and 
+Quality Management 	B.E / B.Tech in Food  Engineering / Agricultural Engineering / Diary Technology /
+				Biotechnology / Chemical Engineering (or) M.Sc in Food  Science / any branch  of 
+				Life Sciences / Home Science / Nutrition & Dietetics  (or) its equivalent.
+
+Genetic Engineering 	B.E / B.Tech in Genetic Engineering / Biotechnology / Industrial or Medical or 
+				General or Food Biotechnology / Biochemical Engineering / Bioinformatics / 
+				Bioprocess Engineering (or) B.Pharm (or) B.V.Sc. (or) B.F.Sc. (or) B.Sc.
+				(Agri) / B.Sc. (Forestry)  (or) MBBS (or) M.Sc in any branch  
+				of Life Sciences (or) its equivalent.
+Information Security 
+and Cyber Forensics 	B.E / B.Tech. in CSE / IT / SWE (or) M.Sc. (CSE / IT) (or) MCA (or) its equivalent.
+
+
+Internet of Things 	B.E / B.Tech. in CSE / IT / SWE / ECE / EEE /ETE /Mechatronics/ 
+				EIE & ICE (or) MCA (or) M.Sc. (CS / CST / IT / SW / Electronics 
+				/ Applied Electronics )  (or) any equivalent degree in the above Disciplines
+
+Mechatronics 
+Engineering 		B.E / B.Tech in Mechanical Engineering, Production Engineering,
+				Manufacturing Engineering, Automobile Engineering,Aerospace Engineering,
+				Mechatronics Engineering,Electrical and Electronics Engineering, 
+				Electronics & Communication Engineering, Instrumentation and Control Engineering,
+				Electronics & Instrumentation Engineering, Electronics & Instrumentation
+				Engineering,Computer Science Engineering, Information Technology, 
+				Software Engineering (or) its equivalent.
+
+Nanotechnology 		B.E / B.Tech. (Any Specialization),  M.Sc (Physics / Materials  Science 
+				/ Chemistry / Applied Chemistry / Bio Chemistry / Biotechnology) with 
+				mathematics as one of the subjects at B.Sc level (or) its equivalent.
+
+
+Power Systems 		B.E / B.Tech. in EEE (or) its equivalent.
+
+
+Robotics 			B.E / B.Tech. in Mechanical  Engg. / Production Engg. 
+				/ Industrial Engg. / Automobile Engg. / Aerospace / Aeronautical Engg. 
+				/ Mechatronics Engg. / ECE / EEE / ICE / CSE (or) AMIE (Mech) 
+				/ AMAeSI(Aero) / IMechE (or) any equivalent degree in the above Disciplines
+
+
+Solar Energy 		B.E. / B.Tech. in Mechanical  Engineering / Automobile Engineering 
+				/ Chemical Engineering / Electrical & Electronics Engineering /
+				 AMIE (Mechanical Engineering) / AMAeSI / IMechE / M.Sc.(Physics)
+				 (or) any equivalent degree in the above discipline.
+
+
+Structural Engineering 	B.E / B.Tech. in Civil / Civil Infrastructure Engg. / Architectural Engg. 
+				(or) its equivalent.
+Artificial Intelligence 
+(empowered by 
+Great Learning)		B.E / B.Tech. in CSE / IT / SWE / ECE / EEE / EIE & ICE (or) MCA (or) 
+				M.Sc. (CS / CST / IT / SW) (or) its equivalent.
+Artificial Intelligence  
+& Data Science 
+(empowered by 
+Great Learning)
+
+Data Engineering 
+(empowered by 
+Great Learning)
+
+Data Science 
+(empowered by 
+Great Learning)
+
+VLSI Design 		B.E / B.Tech. in ECE / EEE / EIE / CSE / IT (or) M.Sc. 
+				(Electronics / Applied Electronics) (or) M.Sc. 
+				(Physics – Special Electronics) (or) its equivalent.
+
+
+__________________________________________________________________________________________________
+
+
+1985 Established
+
+163 Faculty & Staff
+
+5000+
+Students
+
+1000+
+Publications
+
+8Funded Projects
+
+135+
+Patent(Published)
+
+114
+Ph.D (Awarded)
+
+15+
+Consultancy project
+
+
+Placement Records
+343+ Dream Offer
+370+ Super Dream
+35+ Marque
+533+ Day sharing
+7 Internship
+
+
+Program Educational Objectives:
+PEO1
+Graduates will be able to perform in technical/managerial roles ranging from design, development, problem solving to production support in software industry and R&D sectors.
+PEO2
+Graduates will be able to successfully pursue higher education at reputed institutions.
+PEO3
+Graduates will have the ability to adapt, contribute and innovate new technologies and systems in the key domains of Computer Science and Engineering.
+PEO4
+.Graduates will be ethically and socially responsible solution providers and entrepreneurs in Computer Science and other engineering disciplines.
+PEO5
+Graduates will possess the additional skills in core computer science discipline with knowledge of Hardware, Software , Programming , Logic & Reasoning.
+
+
+
+
+Infrastructure:
+
+The department provides extensive computing resources for research and education. This includes more than 800 high-performance computers in the range of Linux, Windows, SUN and Apple workstations and a good number of laptop systems in 26 laboratories apart from the special research labs.
+
+
+Student Clubs, Professional Chapters And Association Bodies:
+
+
+Coding Ninjas CLUB
+	-Dr.M. Uma Devi
+
+Microsoft Learn Student Ambassadors SRM
+		-Mr. Sibi Amaran
+
+Google DSC SRM
+	-Dr. M Umadevi
+
+Data Science Community SRM
+	-S Priya
+
+Guvi Code Camp
+	-Gayathri M
+
+
+Hack Club SRM
+	-V Hemamalini
+
+
+Faculty
+
+Teaching environment and quality are central to SRMIST’s capability profile. Our professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus for leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consulting and other projects. This platform brings our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs, therefore benefiting our students.
+
+Details about Faculties:
+
+https://www.srmist.edu.in/staff-finder/?dept=13519
+
+FOR ADMISSION 
+
+APPLICATION PAGE LINK -https://www.srmist.edu.in/admission-india/
+
+
+Contact Details
+
+Department of Computing Technologies
+
+Tech Park, SRM Institute of Science and Technology,
+Kattankulathur – 603203
+
+call: 044 27417841/044 27417842
+Email: hod.ctech.ktr@srmist.edu.in
+
+	
+contact for admission
+ +91 44 27417000
+ +91 44 27417777
+ +080 69087000
+ infodesk@srmist.edu.in
+
+
+Admin ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Department details:
+
+Programs Offered At CoM
+College of Management, SRM Institute of Science and Technology, established in 1993 is ranked as a top Business School by many reputed ranking agencies – ranked No 8 in Outlook-ICARE 2022 as India’s top private MBA institutions in South Zone; No. 5 of Top B-Schools of Eminence by Competition Success Review, Global Human Resource Development Centre (GHRDC); No. 15 in Private B-Schools in South Zone by The Week–Hansa Research Survey 2021 and Ranked No. 2 among Government and Private B-Schools in Chennai.
+
+Located amidst the industries, the College of Management, SRM IST offers Industry relevant programs.
+	
+BBA
+BBA (Honours)
+BBA Digital Marketing
+MBA
+MBA Banking and Financial Services
+MBA Artificial Intelligence and Data Science
+MBA Digital Marketing
+MBA Business Analytics
+MBA Health Care and Hospital Management
+PhD in Management
+
+
+Healthcare and Hospital Management(MBA)
+
+Program Specific Outcomes
+PSO 1
+Ability to apply of Multidisciplinary knowledge of various functional areas in Hospital Management
+PSO 2
+Ability to evaluate Healthcare operations using business metrics
+PSO 3
+Create a strategic plan for execution of health care businesses
+
+Campus:
+Kattankulathur (KTR)
+Sanctioned Intake
+30
+Annual Fees:
+INR 3,85,000
+Duration:
+2 Years
+
+Syllabus:
+SEMESTER -I
+
+MBH22101T-Organizational Behaviour in Healthcare Sector
+MBH22102T-Healthcare Economics
+MBH22103T-Marketing Healthcare
+MBH22104T-Financial analysis and decision making for Healthcare Professionals
+MBH22105T-Epidemiology and Bio-Statistics
+MBH22106T-Information Technology for Managers
+MBH22107T-Managerial Skills and Communication
+MBH22108L-Professional Upskilling - I (Practical)
+
+SEMESTER-II
+
+MBH22201T-Human Resources Management for Healthcare
+MBH22202T-Financial Management in Healthcare Sector
+MBH22203T-Health care Operations Management
+MBH22204T-Entrepreneurship and Innovations in Healthcare Sector
+MBH22205T-Risk Adjustment, Risk Sharing and Premium Regulation in Health Insurance Markets
+MBH22206T-Service design and thinking in healthcare and hospital management
+MBH22207T-Research Methods for healthcare managers
+MBH22208L-Business Analytics (Practical)
+MBH22209L-Professional Upskilling – II (Practical)
+
+SEMESTER -III
+
+MBH22301T-Strategic Management in Healthcare Sector
+MBH22302T-Healthcare Tourism Management
+MBH22303-Healthcare brand Management
+MBH22304T-Healthcare and Hospital Core Services
+MBH22305T-Hospital Information Management Systems
+MBH22306T-Legal Environment for Healthcare Industry
+MBH22307L-Summer Internship
+
+SEMESTER -IV
+
+MBH22401T-Patient Engagement : A Consumer-centered Model
+MBH22402T-Safety and Disaster Management for Hospitals
+MBH22403T-Global Healthcare and Non-profit Organizations
+MBH22404T-Ethical Practices in Healthcare and Hospital Management
+MBH22405L-Capstone Project
+
+
+Placements:
+
+Over 100 companies visit the campus for placing MBA students with high packages. The Industry patrons and Alumni of  the College of Management SRMIST help students be successful entrepreneurs, obtain coveted placements with Corporate Organizations, Research Institutions, International Inc.
+525+
+Students Registered (283 From KTR)
+373+
+Students Placed (225 From KTR)
+12.56
+Highest Package Offered (Lakhs PA)
+245+
+Companies Visited
+196+
+Offers > 5 LPA (113 From KTR)
+
+Placements more ifo:https://www.srmist.edu.in/placements/
+
+Faculty:  https://www.srmist.edu.in/staff-finder/?dept=29335
+
+
+
+Admin:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+Department Of Journalism And Mass Communication
+
+
+About the Department
+
+The fascination with journalism is here to stay. Keeping in mind the absolute essential of ethics and ethical journalism in the print and broadcast outlets, the Department of Journalism and Mass communication shapes students with the zest to be journalists of tomorrow.
+Exposure to print, visual, Public Relation, and New Media is given importance under the guidance of highly qualified and experienced faculty. Regular lectures by experts in the industry combined with seminars, workshops and periodic visits to various media houses make it obvious why SRM is the one place where all future journalists head to.
+“Young Journalists’ Association” for students, conducts events, seminars, conferences, workshops, and other industry interactions for our students. Our students also focus on research in the final semesters, and many universities abroad are keen to absorb our students. Our students have also continued their higher education and graduated from Leeds University, Oaklahoma University, etc.
+The Department also provides opportunities for students to work on an internship in various fields of Print, Electronic, and Online media. Students are guided by expert faculty during their specialized research projects.
+
+
+PROGRAM offered:
+
+UNDERGRADUATE:
+
+B.A. Journalism and Mass Communication
+Duration : 3 Years | Annual Fees : ₹ 85,000
+
+POSTGRADUATE:
+
+M.A. Journalism and Mass Communication
+Duration : 2 Years | Annual Fees : ₹ 50,000
+
+
+PG Diploma in Journalism
+Duration : 1 Year | Annual Fees : ₹ 1,00,000 | Intake : 20
+
+PHD:
+Ph.D. Journalism and Mass Communication
+
+
+Placement:
+
+Over the years, students who have passed out from the Department of Journalism and Mass Communication have been placed in various esteemed media organizations across the country. For more info: https://www.srmist.edu.in/department/department-of-journalism-and-mass-communication/placement/
+
+2007-Year Established
+4-Faculty & Staff:
+
+Eligibility for B.A. Journalism and Mass Communication:
+
+10 + 2 (Higher Secondary) with Any Group. (Minimum Aggregate of 50%)
+
+
+Contact us 
+	
+Department Of Journalism And Mass Communication
+
+Department of Journalism and Mass Communication
+College of Science and Engineering
+SRM Institute of Science and Technology
+Kattankulathur – 603203
+
+044-27414121
+hod.jmc.ktr@srmist.edu.in
+
+
+Admin :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Department of Chemistry:
+
+About The Department:
+
+SRM Institute of Science and Technology (formerly known as SRM University)’s Chemistry Department has been engaged in opening up the fascinating world of Chemistry to students since 1985. The Department offers B.Sc, B.S(4 Year), M.Sc. and Ph.D Programmes. The primary goal of the department is to advance the field of chemistry and to carry out use-inspired research in the emerging areas of energy, environment, sustainable chemistry and health.
+
+Department of Chemistry has a group of vibrant, talented and passionate faculty members whose areas of expertise covers a broad spectrum of topics: Energy and Materials science, Synthetic chemistry, Chemical biology, Physical chemistry and Computation. The Department has well-equipped modern research laboratories with state-of-the art facilities like HR-MS, Powder X-ray diffractometer, Thermo Gravimetric Analyzer, Differential Scanning Calorimeter, BET surface area analyzer, Time-resolved photoluminescence setup etc.
+
+The Department was supported by DST-FIST, Govt. of India with a total out lay of Rs. 146 lakhs during 2015-2020. Faculty members are awarded with DST-SERB Fast Track / SRG / CRG / CSIR / UGC – Startup / Indo – Poland projects with a total out lay of Rs.13 crores. There are 56 approved guides as resource persons to guide Ph.D candidates. Currently 237 research scholars are working for their Ph.D including 14 part time candidates. The Department has tie-ups with recognized institutions, industries and R&D laboratories for student projects, training and research activities.
+
+
+1985 in Established
+Faculty & Staff67:
+Students:380
+Publications:1050
+Funded Projects:45
+Patent(Published):17
+Ph.D (Awarded):67
+
+
+Programs Offered
+
+Undergraduate
+The undergraduate program imparts students with mastery in the field of chemistry.
+
+B.S Chemistry
+Duration : 4 Years | Annual Fees : ₹ 55,000
+
+
+B.Sc. Chemistry
+Duration : 3 Years | Annual Fees : ₹ 45,000
+
+Syllabus link :https://webstor.srmist.edu.in/web_assets/downloads/2021/bsc-chemistry-syllabus.pdf
+
+B.Sc. Chemistry
+From launching space shuttles to discovering new medicinal pills, chemistry is an essential science that influences all aspects of daily life. An undergraduate degree in chemistry helps you develop professional and technical skills in core chemistry subjects. Completing a bachelor’s degree in chemistry can provide exciting employment opportunities across multiple fields in both the private and public sectors. Chemistry is a core science subject, and the scope of the BSc chemistry is high. One can have several employment opportunities in research and development, teaching, product development, quality assurance, analytical science and information science. Some of the most popular career options after BSc chemistry include: agricultural chemist, chemical engineering assistant, chemical product officer, clinical research specialist, forensic assistant, etc.. BSc chemistry students can also opt for government jobs in laboratories, research institutes, and the military. They can also seek employment in the private sector in many industries and companies. Alternatively, students interested in academia can opt for chemistry professor jobs in schools and colleges after obtaining a postgraduate degree and the necessary qualifications to teach.
+
+
+Postgraduate
+The department's ranges of postgraduate programs include core courses as well as elective, independent study. - M.Sc Chemistry.
+
+
+
+M.Sc. Chemistry
+Duration : 2 Years | Annual Fees : ₹ 50,000
+
+Syllabus link :https://webstor.srmist.edu.in/web_assets/downloads/2021/msc-syllabus-2021-22.pdf
+
+Eligibility For M.Sc. Chemistry
+B.Sc. Chemistry with Chemistry as a major Subject or Triple Major with Chemistry as one of the major Subjects (Minimum Aggregate of 50%)
+
+M.Sc. Organic Chemistry
+Duration : 2 Years | Annual Fees : ₹ 50,000
+
+
+Syllabus link :https://webstor.srmist.edu.in/web_assets/downloads/2021/msc-organic-chemistry-syllabus-2021-22.pdf
+
+Eligibility For M.Sc. Organic Chemistry
+B.Sc. Chemistry / B.Sc. (Honors) Chemistry / B.Sc.Triple Majors with chemistry as one of the major subjects.
+
+Ph.D
+The research work at the school includes such domains as innovative interface material, traffic-resistant pavement material
+
+No more data in phd chemistry
+
+Dr. M. Arthanareeswari
+Professor & Head (Admin.)
+Welcome Message
+Since its inception in 1985, the Department of Chemistry at SRMIST has been actively involved in teaching and research activities by offering Bachelor’s, Master’s, and Doctoral degree programs in Chemistry. With 56 talented and enthusiastic faculty members from diverse disciplines across chemistry, our department is strongly committed to excellence in teaching and research, especially in the multidisciplinary area. Securing funding from several funding agencies, publishing high-quality papers and patents clearly portray our dedication. The vibrant learning environment created through courses and projects enables the students to leverage their knowledge, execute their skills, and shape themselves to excel in their higher studies / careers.
+
+SRM Institute of Science and Technology attracts over 450+ recruiters, providing a wide range of opportunities to the students. At the Department of Chemistry, it is our endeavor to make sure all our students get placed in reputed companies. Prior to the placement interview, the students will be trained by the Career Development Center to attend the interviews confidently.
+
+More than 50 companies sought to recruit B.Sc. and M.Sc. chemistry students in the past 5 years. Pharmaceutical companies, R and D sectors, Health care units, Cosmetic companies, Paints, fertilizers and pesticide related companies, educational institutions and a few IT companies came for campus recruitment.
+
+			
+Placement Highlights
+https://www.srmist.edu.in/department/department-of-chemistry/placements/
+
+over all details:
+
+7-Core Company Offers (2022-23)
+51-General Company Offers (2022-23)
+7-Students Placed(2022-23)
+4-Core Company Offers (2021-22)
+39-General Company Offers (2021-22)
+3-Students Placed(2021-22)
+2-Core Company Offers (2020-21)
+41-General Company Offers (2020-21)
+4-Students Placed(2020-21)
+2-Core Company Offers (2019-20)
+30-General Company Offers (2019-20)
+5-Students Placed(2019-20)
+9-General Company Offers (2018-19)
+1-Core Company Offers (2017-18)
+7-General Company Offers (2017-18)
+2-Students Placed(2017-18)
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value-adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings to our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs, therefore, benefiting our students.
+
+
+Department Of Chemistry
+University Building, SRM Institute of Science and Technology,
+Kattankulathur – 603203
+
+044 27417832/044 27417872
+hod.chy.ktr@srmist.edu.in
+
+
+Admin::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+College of Engineering & Technology
+
+SRMIST’s engineering programs endeavor to be at the forefront of innovation. They also foster multi-disciplinary collaborations aimed at solving the most pressing global problems.
+
+Our mission is to seek solutions to global challenges by using the power of engineering principles, techniques and systems. We believe that engineers should not only possess deep technical excellence, but also nurture creativity, cultural awareness and entrepreneurial skills that come from exposure to science, business, medicine and other disciplines – all integral part of the SRM experience.
+
+Our goal is to deliver world class, solutions driven programs that inspire curiosity and generate new knowledge and discoveries. Our collaboration with over 50 of the world’s best universities and 215 corporates, strengthens our academic and research programs.
+
+for more data: https://www.srmist.edu.in/college/college-of-engineering-technology/about/
+
+Dr. T. V. Gopal
+Dean – CET, Kattankulathur
+E: dean.cet@srmist.edu.in
+
+Dean's Message
+Welcome to the College of Engineering and Technology (CET), SRM Institute of Science & Technology (SRMIST), Chennai, India. We share the passion and commitment to Education of our Founder and Chancellor who believes that Engineering and Science can give you the exhilarating power to become an active explorer, maker, doer, and help invent the future.
+
+
+
+
+Department & Centers
+The Engineering and Technology faculty comprises of 7 Schools and 19 Departments. Each school is headed by a Dean and comprises various Departments of Engineering, clubbed on the basis of their domain expertise.
+
+With students in India seeking more inter-disciplinary program and flexibility in course curriculum, SRMIST addressed this demand by completely leaving the option of program path to the students. A student shall have the option of choosing any one of the following pathways (i) Major (ii) Major with Specialization (iii) Major with Minor or Major with specialization and a Minor. The core philosophy that is practised in SRMIST as part of teaching-learning process is Inter Disciplinary Experiencial Active Learning (IDEAL)
+
+
+	
+Aerospace Engineering	
+School of Architecture and Interior Design
+Automobile Engineering
+Biomedical Engineering
+Biotechnology
+Civil Engineering
+Chemical Engineering
+Chemistry
+Computational Intelligence
+Computing Technologies
+Data Science & Business Systems
+Electronics & Communication Engineering
+Electrical & Electronics Engineering
+Electronics & Instrumentation Engineering
+English & Foreign Languages
+Food Process Engineering
+Genetic Engineering
+Mathematics
+Mechanical Engineering
+Mechatronics Engineering
+Networking & Communications
+Physics and Nanotechnology
+
+centers:
+
+Center for Architectural Heritage
+Career Development Center
+SRM-DBT Platform (under Bio Engineering)
+Centre For Advanced Concrete Research (CACR)
+Centre for Nanotechnology
+Centre for Yoga
+Centre For Composites And Advanced Materials
+SRM BRIN: center of excellence in Automation Technologies
+Center for Immersive Technologies
+
+
+Research @ CET, SRMIST
+We are committed to the creation of knowledge through research across all disciplines within the College of Engineering and Technology (CET). This stems from the SRMIST’s focus on RESEARCH instilled from the very beginning by the Leadership especially our Founder and Chancellor. We ensure that aspiring students willing to put in hard work and interested in gaining most fruitful student life experiences will find all the support they need to pursue their research interests. They can immensely benefit from advanced labs, equipment, real-life problems being understood and solved by experienced research- oriented faculty members and scholars.
+
+500+ Research Labs
+1000+ Research Publications
+₹50Cr Funding/Spend On Research
+
+
+Career And Placement
+The Career Center at SRM Institute of Science and Technology plays a vital role in making SRM a favored destination for many national and international organizations to recruit fresh talent nurtured at the Institute. Continuous institute-industry interaction, pre-joining learning initiatives, participating in industrial exhibitions, fairs, seminars to promote useful interaction with the industries, and alumni activities are some of the initiatives of Placement Office. The excellent infrastructure of the Career Center facilitates activities like pre-placement talks, written tests, group discussions, and interviews as per the requirements of the recruiting organizations.
+
+650+ Companies
+7030+ Offers
+40+ Highest Package Offered (LPA)
+350+ Package 5LPA & Above
+
+
+Infrastructure & Facilities
+SRM Institute of Science and Technology has been consistent to maintain excellence in the academic standard since its inception. Learning is an Enjoyable experience here, with experienced Faculty, Inspiring Libraries and Stimulating discussion rooms, Large Playgrounds and State-of-the-art Labs. 
+
+Admin::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Department of Networking And Communications
+
+
+About The Department
+Department of Networking and Communications under School of Computing intend to meet the expectations of the aspiring students and to add more value to the degrees offered. The Department ensures to provide quality and value-laden education for students in the traditional and contemporary areas of Cloud Computing, Computer Networks, Cyber Security, Information Technology and Internet of Things.
+
+The programs are introduced in partnership with reputed IT companies like Amazon Web services, K7 Security, Virtusa etc. The department consists of a medley of faculty members with industrial and academic experience. The Department’s keen focus is towards “networks”domain specific and specialization-based placement drives for its students. The department inculcates entrepreneurial skills in budding aspirants to pitch their innovative ideas through SRM Innovation and Incubation Center. Our International and alumni connect intrigue in bridging the gap between the trio: Academics-Industry -Research.
+
+
+1998 inEstablished
+
+103 Faculty & Staff
+
+2313 Students
+
+514 Publications
+
+20 Funded Projects
+
+136 Patent(Published)
+
+62 Ph.D (Awarded)
+
+
+Dr. Annapurani Panaiyappan .K
+Professor & Head
+Welcome Message
+It gives me an immense pleasure to welcome you all to the Department of Networking and Communications in School of Computing, SRM Institute of Science & Technology (SRMIST), Kattankulathur.
+
+This department manifests various distinctive and contemporary flavours of Computer Science and Engineering making the unit unique and special. It encompasses Undergraduate Program in Computer Science and Engineering with five broad specializations – Cyber Security, Internet of Things, Computer Networking, Cloud Computing and Information technology. And five year M.Tech Integrated Program in Computer Science and Engineering with Specialization in Cyber Security and Digital Forensics. Our post graduate programs include Information Security & Cyber forensics, Internet of Things and Cloud Computing. And also we run Ph.D programs with more than 90 scholars contributing towards prospective researches and standard publications in referred journals and patents.
+
+The vision and mission of the department is structured in such a way to equip the students to fulfil their aspiring dreams and reach the goals. The goals may range from placing in high package companies, entrepreneurship, start-ups to higher education, research, societal needs and so on. The courses are framed in such a way to bridge the gap between Industry and Academics. We strive to empower and encourage our students to pave their own path towards success.
+
+Our former president and scientist Dr.APJ Abdul Kalam stated that the growth of India will only depend on proper grooming and nurturing of these young masses with the dreams kept high and alive. This is well taken care by our extremely dedicated teach force, an absolute live wire tying this whole system to be alive and sustained. The faculty of the department not only excel in teaching technical nuances but also skilled in research, publishing, tapping funding from external agencies, patents and more. We do excel at counselling and guidance to keep the students vibes up and roaring.
+
+Moreover the department has strong bonds with industries and have specialized labs including Malware Analysis from K7 computing, Network Simulator with NETSIM from Tetcos, CISCO Networking, IoT Center of Excellence, Cloud Computing and many more. This has influenced our placements in turn and almost all our eligible students get placed in reputed companies with a very high package. We support the student activities that nurture them in organizing and take lead in our Networking and Communications Association and various student clubs namely SRM OWASP, SRM Team Hackathon, Hack the Box and so on.
+
+With this short note, I am extremely proud to head such a well formulated task force comprising of students, teaching and non-teaching staffs and research scholars. There is no doubt that this department would be a remarkable place to start your journey. Also you may feel free to browse through our web page to know more about the achievements and laurels which will make you awe for sure.
+
+If you are interested to join us and know more, feel free to contact us.
+
+Programs
+
+Undergraduate
+B.Tech programmes with specialization provides graduates with the skills and knowledge to take on appropriate professional positions upon graduation. The programmes are designed in such a way that the graduate develops a practical understanding of the technologies and acquires expertise for a successful career.
+
+
+B.Tech – Computer Science And Engineering with Specialization in Cloud Computing
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+
+Syllabus Details:
+
+Semester - I
+
+18LEH101J-English
+18MAB101T-Calculus and Linear Algebra
+18PYB103J-Physics: Semiconductor Physics
+18MES101L-Engineering Graphics and Design
+18EES101J-Basic Electrical and Electronics Engineering
+18PDM101L-Professional Skills and Practices
+18LEM101T-Constitution of India
+18GNM101L-Physical and Mental Health using Yoga
+
+Semester - II
+
+18LEH10XJ-Chinese
+18LEH10XJ-French
+18LEH10XJ-German
+18LEH10XJ-Japanese
+18LEH10XJ-Korean
+18MAB102T-Advanced Calculus and Complex Analysis
+18CYB101J-Chemistry
+18CSS101J-Programming for Problem Solving
+18MES103L-Civil and Mechanical Engineering Workshop
+18PDH101T-General Aptitude
+18LEM102J-Value Education
+18GNM102L-NSS
+18GNM103L-NCC
+18GNM104L-NSO
+
+
+Semester - III
+
+18MAB201T-Transforms and Boundary Value Problems
+18BTB101T-Biology
+18CSS201J-Analog and Digital Electronics
+18CSC201J-Data Structures and Algorithms
+18CSC202J-Object Oriented Design and Programming
+18CSC203J-Computer Organization and Architecture
+18PDH102T-Management Principles for Engineers
+18PDM201L-Competencies in Social Skills
+18PDM203L-Entrepreneurial Skill Development
+
+Semester - IV
+
+18MAB204T-Probability and Queueing Theory
+18CSS202J-Computer Communications
+18CSC204J-Design and Analysis of Algorithms
+18CSC205J-Operating Systems
+18CSC206J-Software Engineering and Project Management
+18CSC207J-Advanced Programming Practice
+18CSC208L-Competitive Professional Skills - I
+18PDH103T-Social Engineering
+18PDM202L-Critical and Creative Thinking Skills
+18PDM204L-Business Basics for Entrepreneurs
+18CYM101T-Environmental Science
+
+Semester - V
+
+18MAB302T-Discrete Mathematics for Engineers
+18CSC301T-Formal Language and Automata
+18CSC302J-Computer Networks
+18CSC306L-Competitive Professional Skills-II
+Professional Elective – 1
+Professional Elective – 2
+Open Elective – 1
+18CSP101L-Massive Open Online Course - I
+18CSP102L-Industrial Training-I
+18CSP103L-Seminar - I
+18PDM301L-Analytical and Logical Thinking Skills
+18PDM302L-Entrepreneurship Management
+18LEM109T-Indian Traditional Knowledge
+
+Semester - VI
+
+18CSC303J-Database Management Systems
+18CSC304J-Compiler Design
+18CSC305J-Artificial Intelligence
+18CSC350T-Comprehension
+18CSC307L-Competitive Professional Skills-III
+Professional Elective – 3
+Professional Elective – 4
+Open Elective – 2
+18CSP104L-Massive Open Online Course - II
+18CSP105L-Industrial Training-II
+18CSP106L-Seminar - II
+18PDH201T-Employability Skills and Practices
+18LEM110L-Indian Art Form
+
+Semester - VII
+
+Professional Elective – 5
+Professional Elective – 6
+Open Elective – 3
+18CSP107L-Minor Project
+18CSP108L-Internship (4-6 weeks)
+
+
+Semester – VIII
+
+18CSP10L-Project
+18CSP110L-Semester Internship
+
+
+B.Tech – Computer Science And Engineering with Specialization in Computer Networking
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+
+
+
+
+B.Tech – Computer Science And Engineering with Specialization in Information Technology
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+
+B.Tech – Computer Science And Engineering with Specialization in Internet of Things
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+
+B.Tech -Computer Science And Engineering with Specialization in Cyber Security
+Duration : 4 Years | Annual Fees : ₹ 3,50,000
+Integrated Course(5 years program)
+
+
+
+Postgraduate
+The various postgraduate programs offered by the department cover advanced topics of Networking and Communications courses leading to specializations in the areas of Information Security and Cyber Forensics, Internet of Things(IoT) and Cloud Computing. The courses are designed in such a way that the students are exposed to theoretical concepts complemented by related practical experiments.
+
+Eligibility For M.Tech Programme
+
+Eligibility for M.Tech Programs (Duration: 2 Years)
+Specialization	Eligibility
+Cloud Computing	Eligibility for this M.Tech Program is a basic degree or equivalent in B.E / B.Tech in CSE / IT / SWE / ECE / EEE / EI (or) MCA (or) M.Sc (CSE / IT) (or) its equivalent with a minimum aggregate of 50%
+
+M.Tech – Cloud Computing
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+
+SEMESRTER -I
+
+CC2021-Web Application Development
+CC2022-Cloud Architectures
+CC2023-Cloud Storage Infrastructure
+N/A-Industry Supportive Elective course – 1
+N/A-Industry Supportive certification course - 1
+CC2012-Data Analysis using Multivariate Techniques and Forecasting Methods
+CAC2002-Career Advancement Course for Engineers – I
+
+SEMESTER-II
+
+CC2021-Web Application Development
+CC2022-Cloud Architectures
+CC2023-Cloud Storage Infrastructure
+N/A-Industry Supportive Elective course – 1
+N/A-Industry Supportive certification course - 1
+CC2012-Data Analysis using Multivariate Techniques and Forecasting Methods
+CAC2002-Career Advancement Course for Engineers – I
+
+Semester - III
+
+Program Elective – 2
+Industry Supportive Elective course –3
+Industry Supportive Elective course – 4
+Industry Supportive certification course - 3
+CAC2003-Career Advancement Course for Engineers - III
+CC2059-Project Phase-I
+CC2057-Seminar (Pass/Fail Course)
+
+Semester - IV
+
+CC2060-Project Phase-II
+
+M.Tech – Information Security and Cyber Forensics
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+
+No data found
+
+M.Tech – Internet of Things
+Duration : 2 Years | Annual Fees : ₹ 1,60,000
+
+Semester - I
+
+CS2034-Wireless Sensor Protocols and Programming
+CS2041-Computer Networks and Management
+CS2042-Embedded System Design and Architecture
+CAC2001-Career Advancement Course for Engineers-I
+Program Elective-I
+Program Elective-II
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+Semester - II
+
+CS2043-Embedded Systems and Real Time Operating System
+CS2044-IoT Architecture and Protocols
+CS2045-Cloud Architecture and Computing
+CAC2002-Career Advancement Course for Engineers-II
+Program Elective-III
+Program Elective-IV
+N/A-Supportive course ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+Semester - III
+
+Program Elective-V
+Program Elective-VI
+CAC2003-Career Advancement Course for Engineers-III
+CS2047-Seminar
+CS2049-Project Phase I
+N/A-Supportive course 3 0 0 3 ( 1 course of 3 credits in I or II or III sem.)
+N/A-Interdisciplinary Elective (1course of 3 credits in I or II or III sem.)
+
+Semester - IV
+
+CS2050-Project Phase II
+
+Phd in computer science and engineering(fulltime):
+
+Key Areas Of Research:
+
+Information Technology
+Cyber Security
+Cloud Computing
+Internet of Things
+AI & ML
+Future Generation Networks
+Communication network
+Healthcare
+Image Processing
+Semantic Web
+Wireless Sensor Networks
+Data Mining & Data Analytics
+Software Reliability
+
+Research
+Research in the department focuses on creating and evaluating innovative learning experiences, inspired by educational principles and technical progress. Students are motivated to pursue multi-disciplinary research projects on long term basis jointly with other department students. Faculty members are provided with sabbatical to carry out their research work.
+
+Placements
+The top recruiters of students of our department includes many top software companies like TCS, Wipro, HCL, SAP Labs, Tech Mahindra, Mahindra Satyam, IBM, Honeywell, HP, Capgemini, Payoda, Musigma, etc. Around 90% of our students get recruited in the top companies through campus recruitment.
+
+Highlights of 2021
+
+Department has got best Faculty members where 70% of faculties were Doctorates. Recently one of our Faculty Dr.P.Supraja  honoured with AICTE Visvesvaraya Best Teacher Award 2021, at New Delhi on Sept 5th 2021  Publications 2021 :  our faculty members have published 180 research papers in International Journals out of which 72 papers are Science Citation Index (SCI) with the highest impact factor of 7.104 and 108 papers are Scopus Indexed. For more details
+
+12 Marque
+
+104 Super Dream
+
+241 Dream
+ 
+288 Day Sharing
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings to our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs therefore benefiting our students
+
+Faculty Members
+Research & Consultancy
+Research in the department focuses on creating and evaluating innovative learning experiences, inspired by educational principles and technical progress. The key areas of research of the faculty members include semantic web, data mining, software reliability, wireless sensor networks, network security, big data analytics and cloud computing.  Students are motivated to pursue multi-disciplinary research projects on long term basis jointly with other department students. Faculty members are provided with sabbatical to carry out their research work.
+
+Collaborative Initiatives
+The department plays a pivotal role in academic collaboration with NEC-Japan, Society of Electronic Transactions and Security (SETS). The department also has academic pacts with EMC2 through academic alliance program. Dell, Microsoft, CISCO, TCS, Symantec, Mahindra Satyam, IBM and ORACLE are other corporate giants with which our department has collaborations for the benefit of students to carry out internships and project work.
+
+Patents
+Our faculty members had taken a step forward to achieve this by publishing patents on representing various societal issues like Smart speaker system for Agriculture, Smart pillow for Children Monitoring system, Smart watch for Virus detection etc. Nodal Centre for ISRO-IIRS, AICTE Internships initiated by Dr.L.Anand now Students and faculty members of SRMIST can apply for Internship and attend live & Interactive courses conducted by ISRO-IIRS and apply for more than 1,00,000/ internships which is offered by AICTE tie up with top notch companies. Exclusive Placement cell based on Department Specialization.
+
+
+Infrastructure::
+The department has recently setup a private cloud infrastructure and 60% of the labs are virtualized, to have flexibility and efficient utilization of available systems. A state of the art, “Data Analytics lab” was setup in collaboration with EMC2 to carry out projects and research on Big Data.
+
+Cisco Lab
+Cyber Forensics
+Data Analytics Lab
+Data Structures Lab
+Embedded Systems Lab
+Hardware and Troubleshooting Lab
+Integrative Programming Lab
+IT Lab
+Object Oriented Programming Lab
+Open Source Technologies Lab
+RDBMS Lab
+SRM-NEC Collaborative Research Lab
+Visual Programming Lab
+Web Systems Lab
+Contact Us
+
+Department Of Networking And Communications
+Tech Park, SRM Institute of Science and Technology,
+Kattankulathur – 603203
+
+044 27417821/044 27417861
+hod.nwc.ktr@srmist.edu.in
+
+Admin:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+colege name: CSH
+
+Department of English:
+
+About The Department:
+
+The Department of English had a petite yet vivid start in 2003 by offering General English course to the Department of B.Sc. Biotechnology. Now the department has enhanced and burgeoned, extending its support to twenty-one other Disciplines. In October 2018, the P.G. and Research Department of English was established.
+
+The diverse faculty members of the department consistently enrich themselves through other academic activities such as conducting seminars, symposium, conferences, workshops, presenting papers and publishing articles. The Board of Studies meeting will be conducted once in three years. The department invites highly qualified and experienced academicians to revise the syllabus to enhance the knowledge of students on the contemporary view of the society. The current syllabus is set with the objective of catering the students of all the boards. The syllabus is equally balanced with Literature and Language.
+
+In 2007, the department organised a state level workshop on “Grooming Graduates for the Job Market”. In 2008, a workshop on “Poetry Writing; a state level seminar on Attitude Skill and Knowledge-The Art of Leadership” was conducted. A state level seminar on Lingua Franca in 2009, and a National Level Conference on Linguistic Imperialism in 2011 was conducted. An Invited talk on “The History of English Literature and Overview” and a workshop on “Ventriloquism” was held on 2020. In 2021, a workshop on “Research Methodology” was conducted and in 2022, a one-day workshop on Bloom’s Revised Taxonomy was successfully conducted by the department.
+
+The department extends its inimitable service through its interdisciplinary and creative program. To enhance and hone the creative instinct of the students the department often invites distinguished authors who offer intensive workshops each term in fiction, poetry, nonfiction, screenwriting, playwriting, and television writing.
+
+The Research program of the Department provides an immersion experience in which students engage in substantive humanities and arts- based research designed exclusively for the need of the hour of this era.
+
+
+2003 in Established
+
+8 Faculty & Staff
+
+161 Students
+
+121 Publications
+
+2 Patent (Published)
+
+3 Ph.D (Awarded)
+
+
+
+Dr. K. Shanthichitra
+Head/Associate Professor
+Welcome Message
+Welcome to the faculty of English, CSH, SRMIST. SRM’s English department has long been a driving force in the academic study of literature and an integral aspect of SRMIST’s teaching mission. The Department of English educates the majority of CSH, SRMIST freshman, graduates over 21 majors in every CSH class, and trains PhDs in English who go on to become scholars and teachers of literature. Over the years, many PhDs have progressed to positions of leadership in the academic community.
+
+SRMIST English Department has a long history of outstanding publications highlighted by intellectual variety and conceptual inventiveness. The Department now reflects a diverse spectrum of scholarly and critical viewpoints on British literature and literary and cultural history. The strength of the English course is the way it strikes a balance between a solid foundation in the fundamentals of the discipline and the possibility to specialise and create.
+
+We are indeed a diverse group of faculties who are all dedicated to providing the finest possible education and research. We have a big number of erudite teams of researchers working on major cultural and societal issues, the answers to which will have a
+
+Programs Offered
+
+Undergraduate
+The Department of English (CSH) offers undergraduate programme based on world-class syllabus. The curriculum helps students to understand life through literature and language. The syllabus inculcates moral and ethical values through literature and philosophy. It also helps students to identify their skills and enhance their knowledge with creativity.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+40
+Annual Fees
+INR 45,000
+Duration
+3 Years
+
+Postgraduate
+The Department of English (CSH) offers postgraduate programme with the curriculum unique and multidimensional. It provides space for the students to explore the new spectrums in Literature and Language. The syllabus is designed with the metrics of research as it helps students to enhance themselves with the knowledge of incorporating methodology, exploration, and interpretation in the field of research. The post-graduation provides a platform for the young minds to comprehend research.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+40
+Annual Fees
+INR 40,000
+Duration
+2 Years
+
+Research
+The Department of English gives absolute freedom for the research scholars to do research in their respective field. The Research Supervisors in the department energises the young research scholars to do genuine research. The institution provides research room, discussion room, ebrary, library, archives and stipend for the 
+
+
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings to our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs therefore benefiting our students.
+
+
+
+Department Of English
+Department of English
+
+College of Science and Humanities
+
+044-2743 4051
+hod.doe.ktr@srmist.edu.in
+
+Admin::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Deparment of Bio technology
+
+About The Department
+
+The Department of Biotechnology, CSH, SRMIST, was established in the year 2003, with the objective of creating a research-oriented division with inter- disciplinary ideas and has emerged as a hub for state-of-the-art research in the field of Biotechnology. It is committed to imparting a holistic education for the development of students to excel in higher education and research. The Department has a strong commitment to excellence in undergraduate and postgraduate education and offers B.Sc. M.Sc. and PhD programs in Biotechnology. It also offers a flexible curriculum that puts an emphasis on both theoretical and hands-on experience for the students. The Department consists of nine research supervisors who are carrying out cutting edge research in various fields of Biotechnology like stem cell biology, molecular immunology, microbiology, neurogenetics, animal biotechnology, and plant biotechnology. It takes pride in sending-  students for the semester abroad program (SAP) to reputed universities worldwide and  encourages students to perform research related activities from the undergraduate level. The Department organizes workshops and FDPs regularly to keep abreast with the latest advancements in Biotechnology and is constantly striving for excellence in teaching and research.
+
+Research details:
+
+https://www.srmist.edu.in/department/department-of-biotechnology-science-and-humanities/research/
+
+
+
+Dr. D. Sankari
+Associate Professor and Head
+Welcome Message
+The Department of Biotechnology which offers B.Sc. Biotechnology, B.S. Biotechnology, M.Sc. Biotechnology and Ph.D. programmes were started in 2003 with an intake of 80 students in the undergraduate program and 25 students at the postgraduate level. Currently, the combined program has 265 students with 11 dedicated and qualified faculty members assisted by 2 technical staff members. The faculty members along with 27 Ph.D. scholars and 1 PDF are actively involved in research in thrust areas of Biotechnology. The department has six well established laboratories with all sophisticated equipment. Students have been sent through the Student Abroad Program (SAP) to Uppsala University, Umea University, the National University of Singapore (NUS), and the University of Malaysia, Pahang. The Department periodically organizes conferences, workshops, and seminars on recent trends and innovations in Biotechnology. The Department has an excellent track record in placement with its postgraduate students taking up positions within India and globally.
+
+
+
+Programs Offered
+
+Undergraduate
+The undergraduate program imparts students with mastery in the field of Biotechnology
+
+B.Sc. Biotechnology
+Duration : 3 Years | Annual Fees : ₹ 85,000
+
+BS in Biotechnology
+Duration : 4 Years | Annual Fees : ₹ 95,000
+
+Postgraduate
+The department's ranges of postgraduate programs include core courses as well as elective, independent study.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+60
+Annual Fees
+INR 100,000
+Duration
+2 Years
+
+Placement
+The Department of Biotechnology has produced more than 1800 students over the years. The students have been placed in various industries with able guidance from the Placement and Career Center of SRMIST. The department has a faculty member coordinating the placement activities with the placement cell. The primary job of the placement coordinator includes acting as a point of contact between the Placement and Career center and the students of the department and also mentoring the students and providing them with guidance in choosing the right career path.
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs, therefore, benefiting our students.
+
+
+
+Infrastructure
+Molecular Biology Laboratory
+Bioprocess Technology Laboratory
+Plant tissue culture laboratory
+Animal Biotechnology Laboratory
+UG General Laboratory
+PG and Research Laboratory
+
+
+
+Admin:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Departmnet of tamil
+
+About The Department
+About The Department
+The Department of Tamil was started in 2003 to offer General Tamil as an optional language to 60 students of B.Sc Biotechnology. In the period of nine years it has grown to offer General Tamil course to all the First Year under-graduate students of the Faculty of Science and Humanities. Currently it offers the optional language course to ten departments namely, B.Com, B.B.A, B.Sc Visual Communication, B.Sc Computer Sciences, B.Sc Bio-technology, B.sc Information Technology, Bachelors of Integrated Science and Management, B.A Journalism and Mass Communication, B.Sc Computer Science and Technology, Bachelors’s in Computer Application, and B.Sc Bio-technology and Bio-informatics.
+
+2003
+Established
+
+5
+Faculty & Staff
+
+80
++
+Publications
+
+11
+Ph.D (Awarded)
+
+1
+Patent(Published)
+
+
+Dr. B. Jaiganesh
+Head of the Department
+
+Programs Offered
+
+Undergraduate
+Tamil language was introduced in 2003 in the Department of Tamil. It offers Tamil-I & Tamil-II for the B.Sc.B.A.,B.Com courses through their bachelor’s degree curriculum.
+
+
+Postgraduate
+Our program is designed for those who want to advance their understanding of the Tamil language, literature, and culture. The program is structured to provide students with a comprehensive understanding of Tamil language and literature, as well as the ability to conduct independent research.
+
+M.A. Tamil
+Duration : 2 Years | Annual Fees : ₹ 15,000 | Intake : 30
+
+
+
+Ph.D in Tamil
+Duration : 3-5 Years | Annual Fees : ₹ 30,000
+
+Eligibility For M.A. Tamil
+The aspiring students applying for the M.A.TAMIL should have PASSED a B.A.Tamil, B.Lit. Tamil OR Bachelor’s degree in any discipline (Students Possessing Bachelor’s degree in any other disciplines must have studied Tamil as the Mandatory subject at the Part 1 level for TWO YEARS) from any recognized Indian or foreign university with an aggregate of 50% of marks in the qualifying examination.
+
+Research
+PhD program in Tamil with the following Research areas: Grammar, Ancient & Modern Literature, Grammar & Literature Commentaries, Lexicography, Archaeology, Tamil Diaspora, Comparative Tamil literature, Tamil Drama, Tamil Journalism...
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings to our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs therefore benefiting our students.
+
+Faculty Members
+
+
+Department Of Tamil
+Department Of TAMIL
+Fourth Floor, College of Science and Humanities , SRM Institute of Science and Technology,
+Kattankulathur – 603203
+
+044 2743 4041
+hod.tamil.ktr@srmist.edu.in
+
+
+
+Admin:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+Department of commerce
+
+
+About The Department
+The Department of Commerce has been in existence for more than a decade, as a department, it’s been recognized as an esteemed member for the major contributing role in the growth and development of the College of Science and Humanities. With just 21 students in 2005, the department has seen tremendous growth over a decade accommodating more than 951 students in the field of commerce through various courses namely B. Com (Gen, ISM, Hons) and M.com and Research.
+
+A dynamic curriculum in consonance with academics and industry experts provides the students with opportunities to master new skills and explore diverse perspectives. Apart from the conventional classroom setup, SRM emphasis on practical learning as students partakes in case studies, sessions with industry experts, live projects, etc. The institute’s thrust on meaningful research is evident through the credentials and accomplishments of its faculty that has publications Scopus listed journals of repute. In a short span of time, SRM has strengthened its position in the corporate world, with its students contributing to the illustrious business organizations of the country.
+
+The distinct way of the education system; gives a prominence concern not only on academics but also to the all-inclusive development of individuals. Where the reach on learning exposure is highly appraised by distinct ways, like industrial visits to various institutions and also through co-curricular activities which are organised by student association of the department known as Merx-Mercis, which host clubs and events to portray the potential and to exhibit the talent of each student.
+
+
+
+22
+Faculty & Staff
+
+950
++
+Students
+
+
+Dr. S. Tamilarasi
+Head of the Department
+Welcome Message
+The Department of Commerce has consistently improved its academic, research, and placement success. It provides a variety of innovatively created programmes, with curricula that are continually updated to meet the changing needs of the industry and main stakeholders. Students are encouraged to participate in Internships, Micro Projects as part of their curriculum to enhance their academic knowledge with real-world experience and are motivated to conduct and participate in events and get involved in activities of social relevance. With such inputs, our students are hardworking, practical-oriented, and effective in any work environment. The distinguished faculty members combine their academic excellence and real-world experience with dedication and commitment. I welcome you to be a part of our journey towards being a world-class centre of excellence in education and research.
+
+
+Programs Offered
+
+Undergraduate
+The undergraduate program imparts students with mastery in the field of commerce.
+
+
+
+
+B.Com Commerce
+Duration : 3 Years | Annual Fees : ₹ 85,000
+
+Semester-I
+
+Tamil – I / Hindi - I / French - I
+ULE20AE1T-English
+UCM20101J-Financial Accounting
+UCM20102J-Business Organization and Management
+UCM20103J-Economics for Business
+Fundamentals in Stock Market / E – Business
+Business Communication / Office Management
+UCD20S01L-Soft Skills
+
+SEMESTER - II
+
+Tamil – II / Hindi – II / French – II
+UCM20201J-corporate Accounting
+UCM20202J-Banking Theory Law and Practice
+UCM20203J-International Business
+Elements of Insurance / Technology in Banking
+Company Law / Retail Marketing
+UCD20S02L-Quantitative Aptitude and Reasoning
+UJK20201L-Communication Skills
+NSS / NSS / NSO / YOGA
+
+
+SEMESTER - III
+
+UCM20301J-Cost Accounting
+UCM20302J-Income Tax Law and Practice
+UMS20301T-Statistics for Business
+Marketing Management / Advertising and Brand Management / Logistics and Supply Chain Management
+
+
+SEMESTER - IV
+
+UCM20401J-Management Accounting
+UCM20402J-Tax Procedure and Practice
+UMS20401T-Quantitative Techniques for Business Decision
+
+SEMESTER - V
+
+UCM20501J-Financial Management
+UCM20502J-Business Research Methods
+Human Resource Management / Intellectual Property Rights (IPR) / E-Governance
+UES20AE1T-Environmental Studies
+UJK20501T-Leadership and Management Skills
+
+
+SEMESTER - VI
+
+UCM20601L-Auditing Theory and Practices
+UCM20602L-Event Marketing
+Project Work / Dissertation / Semester Internship
+
+
+
+Eligibility For B.Com Commerce: 
+
+10 + 2 (Higher Secondary) with Commerce, Accountancy . (Minimum Aggregate of 50%)
+
+
+B.Com Information System and Management
+Duration : 3 Years | Annual Fees : ₹ 55,000
+
+
+Syllabus
+SEMESTER - I
+
+
+Tamil – I / Hindi - I / French - I
+ULE20AE1T-English
+UIS20101J-Basics of Accounting
+UCM20102J-Business Organization and Management
+UIS20102J-Information Technology
+Fundamentals in Stock Market / E – Business
+Business Communication / Office Management
+UCD20S01L-Soft Skills
+
+SEMESTER - II
+
+Tamil – II / Hindi – II / French - II
+UIS20201J-Basics of Company Accounts
+UCM20202J-Banking Theory Law and Practice
+UIS20202J-Management Information System
+Elements of Insurance / Technology in Banking
+Company Law / Retail Marketing
+UCD20S02L-Quantitative Aptitude and Reasoning
+UJK20201L-Communication Skills
+
+
+SEMESTER - III
+
+UCM20301J-Cost Accounting
+UCM20302J-Income Tax Law and Practice
+UMS20301T-Statistics for Business
+Java Programming / Internet Concepts / Multimedia Design
+Business Law / Customer Relationship Management
+UMI20S01L-My India Project
+UJK20301T-Universal Human Values
+
+SEMESTER - IV
+
+UCM20401J-Management Accounting
+UCM20402J-Tax Procedure and Practice
+UMS20401T-Quantitative Techniques for Business Decision
+Scripting Language / Database Management System / Software Engineering
+Industrial Training / Seminar
+UIS20G03L-MOOC Course
+UJK20401T-Professional Skills
+
+SEMESTER - V
+
+UIS20501J-Python Programming
+UCM20502J-Business Research Methods
+Human Resource Management / Intellectual Property Rights (IPR) / E-Governance
+UJK20501T-Leadership and Management Skills
+UES20AE1T-Environmental Studies
+
+
+
+SEMESTER - VI
+
+UCM20601L-Auditing Theory and Practices
+UIS20601L-Event Marketing
+Project Work / Dissertation / Semester Internship
+
+
+
+
+B.Com. (Hons) International Accounting & Finance
+Duration : 3 Years | Annual Fees : ₹ 1,30,000
+
+SEMESTER - I
+
+Tamil – I / Hindi - I / French – I
+ULE20AE1T-English
+UIA20101T-Accountant in Business
+UIA20102J-Financial Accounting for Business
+UIA20103T-Fundamentals of Cost Accounting
+Fundamentals in Stock Market / E – Business
+Business Communication / Office Management
+UCD20S01L-Soft Skills
+
+SEMESTER - II
+
+Tamil – II / Hindi- II / French – II
+UIA20201J-Management Accounting
+UIA20202T-Financial Reporting
+UIA20203T-Audit and Assurance
+Elements of Insurance / Technology in Banking
+Company Law / Company Law
+UCD20S02L-Quantitative Aptitude and Reasoning
+UJK20201L-Communication Skills
+NSS / NCC / NSO / YOGA
+
+
+SEMESTER - III
+
+UIA20301J-Performance Management
+UCM20302J-Income Tax Law and Practice
+UMS20301T-Statistics for Business
+
+SEMESTER - IV
+
+UIA20401J-Financial Management
+UIA20402J-Advanced Performance Management
+UMS20401T-Quantitative Technique for Business Decision
+Entrepreneurial Development / Rural Entrepreneurship and Small Business Management / Financial Services
+Industrial Training / Seminar
+UIA20G03L-MOOC Course
+UJK20401T-Professional Skills
+
+
+SEMESTER - V
+
+UIA20501J-Strategic Business Leader
+UIA20502J-Strategic Business Reporting
+Human Resource Management / Intellectual Property Rights / E-GOVERNANCE
+UES20AE1T-Environmental Studies
+UJK20501T-Leadership and Management Skills
+
+SEMESTER - VI
+
+UIA20601J-Advanced Financial Management
+UIA20602L-Event Marketing
+
+
+B.Com. (Hons) Professional Accounting
+Duration : 3 Years | Annual Fees : ₹ 1,30,000
+
+SEMESTER - I
+
+Tamil – I / Hindi - I / English - I
+ULE20AE1T-English
+UPA20101T-Fundamentals of Accounting
+UPA20102J-Management Accounting I
+UPA20103T-Fundamentals of Cost Accounting
+Fundamentals in Stock Market / E – Business
+Business Communication / Office Management
+UCD20S01L-Soft Skills
+
+
+SEMESTER - II
+
+Tamil - II / Hindi- II / French - II
+UPA20201T-Financial Reporting
+UPA20202J-Management Accounting II
+UPA20203T-Risk Management
+Elements of Insurance / Technology in Banking
+Company Law / Retail Marketing
+UCD20S02L-Quantitative Aptitude and Reasoning
+UJK20201L-Communication Skills
+NSS / NCC / NSO / YOGA
+
+SEMESTER - III
+
+UPA20301J-Advanced Financial Reporting
+Advanced Financial Reporting
+Income Tax Law and Practice
+UMS20301T-Statistics for Business
+Marketing Management / Advertising and Brand Management / Logistics and Supply Chain Management
+Business Law / Customer Relationship Management
+UMI20S01L-My India Project
+UJK20301T-Universal Human Values
+
+SEMESTER - IV
+
+UPA20401J-Advanced Management Accounting
+UCM20402J-Tax Procedure and Practice
+UMS20401T-Quantitative Technique for Business Decision
+Entrepreneurial Development / Rural Entrepreneurship and Small Business Management / Financial Services
+Industrial Training / Seminar
+UPA20G03L-MOOC Course
+UJK20401T-Professional Skills
+
+SEMESTER - V
+
+UPA20501J-Strategic Management
+UCM20502J-Business Research Methods
+Human Resource Management / Intellectual Property Rights / E-Governance
+UES20AE1T-Environmental Studies
+UJK20501T-Leadership and Management Skills
+
+SEMESTER - VI
+
+UPA20601J-Financial Strategy
+UPA20602L-Event Marketing
+Project Work / Dissertation / Semester Internship
+
+
+
+
+Postgraduate
+The department's ranges of postgraduate programs include core courses as well as elective, independent study.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+30
+Annual Fees
+40,000
+Duration
+2 Years
+
+SEMESTER - I
+
+PCM21101J-Advanced Accounting
+PCM21102T-Corporate Governance and Ethics
+PCM21103L-Event Management
+Financial Institutions and Markets /Human Resource Analytics/Global Strategic Management
+PCM21S01J-Entrepreneurial Skill Development
+PCM21AE1T-Project Management
+PCD21AE1T-Professional Skills and Problem Solving
+
+
+SEMESTER - II
+
+PCM21201J-Cost and Management Accounting
+PCM21202T-International Marketing
+PCM21203L-Research and Publication Ethics
+Advertising and Sales Management/Logistics and Supply Chain Management/Audit and Assurance
+PCM21S02J-Business Research Methods
+PCM21AE2T-Goods and Services Tax
+PCD21AE2T-General Aptitude for Competitive Examination
+
+SEMESTER - III
+
+PCM21301J-Tax Procedure and Planning
+Entrepreneurship Management / EXIM - Procedures and Documentation / Forensic Accounting and Fraud Management
+Financial Management and Policy / Corporate Law / Brand Management
+PCM21AE3T-Intellectual Property Rights
+PCD21AE3T-Employability Skills
+PCM21P01L-MOOC
+PCM21S03L-Mini Project Work
+
+
+SEMESTER - IV
+
+PCM21P02L-Project
+
+
+Eligibility For M.Com Commerce
+Any UG degree with Accountancy and Commerce as Major course (B.Com. any stream, BBM, BCS and BBA) (Minimum Aggregate of 50%)
+
+Diploma:
+
+Diploma in Financial Managemnet
+Duration : 11 Months | Annual Fees : ₹ 15,000
+
+Ph.D
+The Ph.D. program in Commerce has been specially designed to cater to the scholarly needs
+
+Certificate Programs
+Tally with GST, Tax Filing, SPSS and AMOS, Entrepreneurship Development
+
+Research
+A Ph.D. degree signifies that you have attained the greatest level of competence in your field of study. Pursuing a Ph.D. is all about creating fresh knowledge, discovering new things, developing new skills, and imparting the learned knowledge to others. The Department of Commerce offers research courses to Ph.D. students. The students can apply to be part-time external, part-time internal, or full-time research scholars. There are more than 33 research scholars doing their Ph.D.’s under established faculties in our department.
+
+ 
+
+Research Scholars & Supervisors
+
+Placement
+Students pursuing their career in the Department of Commerce have plenty of Job opportunities in key areas like banking, entrepreneurship, international programs, State and Central Government Jobs, business communities, and so on. Some of our placement companies include ICICI, HDFC, CTS, Infosys, RBS, Goldman Sacs, Mckinsey, and so on.
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms, and labs, therefore benefiting our students.
+
+Faculty Members
+Gallery
+Infrastructure
+The department has 21 lecture halls to accommodate 20 classes. The lecture halls provide all the necessary facilities for the students. The four-floor building has an elevator and high-class ventilation facilities. A seminar hall is also available for students to attend and conduct various seminars and workshops. 2 computer labs are available which can accommodate more than 50 students at once.
+
+The Department of Commerce maintains and grows library collections so that users can find the materials that support their learning and research. At present, our library has 170 books from various fields and research souvenirs to enrich research interests. Since the core mission of establishing a department, the library is to ensure the students are benefited from the ample materials and reference books, and hence our students are encouraged to borrow books from the department library for reference.
+
+ 
+
+Contact Us
+
+Department Of Commerce
+SRM Nagar, Kattankulathur – 603203
+Chengalpattu District, Tamil Nadu
+
+044- 27455756 Extn:4151
+email@srmist.edu.in
+
+
+Admin ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+BBA Digital Marketing:
+
+BBA in Digital Marketing is a three-year program is designed to create technology driven managers, leaders and entrepreneurs to handle the contemporary and dynamic changes of businesses. This program provides an opportunity to learn subjects related with business administration with industrial exposure specifically in the field of digital marketing.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+45
+Annual Fees
+105,000
+Duration
+3 Years
+
+Syllabus link:
+https://www.srmist.edu.in/program/b-b-a-digital-marketing/
+
+
+Eligibility For B.B.A. Digital Marketing
+Any student having passed the qualifying exam (10+2) with 50% and above is eligible for BBA and BBA (Digital Marketing)
+Any student having passed the qualifying exam (10+2) with 60% and above is eligible for BBA(Honours)
+* Please refer the admissions portal
+
+
+M.B.A. Digital Marketing
+Digital marketing created a revolution in the marketing by effectively reaching the large number of consumers than the traditional marketing practice. Social media marketing is the trending tool in the digital marketing. Today both Rural and Urban consumers are using social media due to penetration of internet, technology revolution of smart phones and internet availability at affordable price. MBA in Digital Marketing, a two-year program, is designed to equip the students to understand the key social media platforms such as Facebook, Twitter, Google+, Instagram, Google Analytics, Blogging, Linkedin, and Youtube. It also teaches the potential use of website contents, effectively using SEO strategies, understanding of search engines, and the various analytics tools and techniques to create competitive advantage on the online market. Students pursuing this program learns the various domain of business like HR, Finance and Systems in their I year of study before learning subjects of DM inII year.
+
+Campus
+Kattankulathur (KTR)
+Sanctioned Intake
+30
+Annual Fees
+INR 3,85,000
+Duration
+2 Year
+
+syllabus link: https://www.srmist.edu.in/program/m-b-a-digital-marketing/
+
+Eligibility For M.B.A. Digital Marketing
+Undergraduates from any discipline with 60% & above in the qualifying examination and looking for a career in Management can apply.
+Any applicant with an above par score in the below mentioned management competitive entrance exams will be considered, for admission to the College of Management. These exams are CAT, MAT, XAT, GMAT, NMAT, CMAT, TANCET. In case, neither are available, SRMJEE-M (conducted by SRM COM) is a must.
+Students in their final year of UG study can also apply.
+* Please refer the admissions portal
+
+
+
+Admin:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Hotel and Catering Mangemnet:
+
+About The Department
+The importance of competent hoteliers is increasing with each passing day as five star hotels and resorts spring up around the country and chefs are feted at international events. SRM Institute of Hotel Management (IHM) has been offering quality hospitality education and training for more than a decade.
+
+SRM Institute of Hotel Management is the only one of its kind with a fully operational super deluxe star hotel set amidst scenic ambience spread around 5 acres. The institute has two branches:
+
+The SRM Hotel pvt Ltd, Chennai, ideally located on the National Highway, has easy access to industrial areas and tourist sights. It caters 50 well furnished rooms to its patrons including reputed industries like Ford India Ltd, Visteon, Hyundai Motor India Ltd, Spel Semiconductors, Ucal Fuel Systems, JPSL, JBM Krupp as well as pilgrims and tourists to the region. The hotel educates 1500 students per year, exposing them to valuable hands on practical experience.
+
+SRM Hotel Pvt. Ltd, Trichy has 120 well-equipped rooms. The college offers degree and diploma courses in Hotel and Catering Management to around 400 students every year.
+
+Institute Of Hotel And Catering Management
+Infrastructure
+24
+Faculty & Staff
+
+1900
++
+Students
+
+
+Mr. Ganesh Moorthy
+Head of the Department
+Welcome Message
+Programs Offered
+
+Undergraduate
+SRM Institute of Hotel Management (IHM) has been offering quality hospitality education and training for more than a decade.
+
+B.Sc. Hotel & Catering Management (Lateral Entry in 3rd Sem.)
+Duration : 2 Years | Annual Fees : ₹ 80,000
+
+Diploma:
+
+Diploma in Hotel Management and Catering Science
+Duration : 3 Years | Annual Fees : ₹ 55,000
+
+PG Diploma
+
+Duration : 1 Year 6 Months | Annual Fees : ₹ RS. 1,20,000/- ( GENERAL ) * RS. 1,00,000/-( SRMIHM STUDENTS )
+
+PG Diploma Hotel & Catering Management (Lateral Entry in 3rd Sem.)
+Annual Fees : ₹ * RS. 1,20,000/- ( GENERAL ) * RS. 1,00,000/-( SRMIHM STUDENTS )
+Placement
+Placement Record
+
+Placement Record
+
+Faculty
+Teaching environment and quality are central to SRMIST’s capabilities profile. Our Professors are the reason for our continued ability to foster vibrant and value adding learning experiences for our students. The success of our students’ in terms of their learning and overall development enabled by our faculty members is an area of focus of Leadership at SRMIST. Many opportunities are provided to our faculty members to conduct research and engage with the industry in consultancy and other projects. This platform brings to our faculty members an opportunity to expand their knowledge contribution as well as bring those rich experiential inputs to the classrooms and labs therefore benefiting our students.
+
+Faculty Members
+Infrastructure
+Ranked No:1 by several magazines SRMIHM boasts of extraordinary infrastructure. Apart from smart class rooms and audio video rooms SRMIHM also has well equipped kitchen labs.
+
+The college has the following food production labs.
+
+Advanced Training Kitchen Lab
+Quantity Training Kitchen Lab
+Basic Training Kitchen Lab – 2
+Bakery lab
+Confectionery lab
+Each of these is well equipped and each one is different from one other regarding the set up and the requirements.
+
+Advanced Training Kitchen Lab
+Quantity Training Kitchen Lab
+Basic Training Kitchen Lab
+Bakery lab
+Confectionery lab
+
+
+Admin::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
